@@ -191,7 +191,7 @@ public class Escola {
             System.out.println("");
             x++;
        
-        } while (x < 1);
+        } while (x < 100);
    
     }
     
